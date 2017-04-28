@@ -9,6 +9,8 @@
 body {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
+  overflow: hidden;
+  margin:0;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
